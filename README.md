@@ -40,7 +40,7 @@ Este proyecto analiza un conjunto de datos de transacciones financieras para con
 7. **Evaluación con métricas:**
    - Precision, Recall, F1-Score
    - ROC-AUC
-8. **Interpretación con `feature_importances_`
+8. **Interpretación con `feature_importances_`**
 
 ---
 
@@ -56,3 +56,5 @@ Este proyecto analiza un conjunto de datos de transacciones financieras para con
   - El monto de la transacción no es un predictor significativo.
   - El tipo de dispositivo influye moderadamente.
   - La antigüedad de la cuenta no es un factor clave.
+ 
+  ---
