@@ -56,5 +56,5 @@ Este proyecto analiza un conjunto de datos de transacciones financieras para con
   - El monto de la transacción no es un predictor significativo.
   - El tipo de dispositivo influye moderadamente.
   - La antigüedad de la cuenta no es un factor clave.
- 
-  ---
+
+---
